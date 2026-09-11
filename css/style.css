@@ -129,6 +129,11 @@ h1 {
   color: var(--ink-soft);
 }
 
+
+.card p+p {
+  margin-top: 16px;
+}
+
 .card p.filled {
   color: var(--ink);
 }
