@@ -133,11 +133,6 @@ h1 {
   margin-top: 16px;
 }
 
-.card p.en {
-  padding-top: 16px;
-  border-top: 1px dotted var(--line);
-}
-
 .card p.filled {
   color: var(--ink);
 }
